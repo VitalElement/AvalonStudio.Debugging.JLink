@@ -3,6 +3,7 @@
   "Description": "JLink Debug Adaptor",
   "RepoUrl": "https://github.com/VitalElement/AvalonStudio.Debugging.JLink.git",
   "Tags": [
-    "Win32-Slow-v5.10s"
+    "Win32-Slow-v5.10s",
+    "Win32-Slow-v5.12f"
   ]
 }
